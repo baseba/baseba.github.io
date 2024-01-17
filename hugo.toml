@@ -1,0 +1,4 @@
+baseURL = 'https://baseba.github.io'
+languageCode = 'es-cls'
+title = 'portfolio'
+theme = 'ananke'
