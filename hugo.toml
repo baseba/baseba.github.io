@@ -4,7 +4,7 @@ title = 'Sebastian Espejo'
 theme = 'PaperMod'
 
 [params.homeInfoParams]
-Title = "Welcome tomy personal page"
+Title = "Welcome to my personal page"
 Content = "Here you can find info about my projects and myself"
 
 [[params.socialIcons]]
